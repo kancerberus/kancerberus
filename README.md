@@ -65,3 +65,5 @@ Application for managing user permissions, visitor registrations and company acc
 💼 LinkedIn: https://linkedin.com/in/carlvilla
 
 📧 Email: kanceberus@gmail.com
+
+![Profile Views](https://komarev.com/ghpvc/?username=kancerberus&label=Profile%20Views&color=0e75b6&style=flat)
