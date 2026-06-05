@@ -62,6 +62,6 @@ Application for managing user permissions, visitor registrations and company acc
 
 📍 Moncton, New Brunswick, Canada
 
-💼 LinkedIn: [https://linkedin.com/in/carlvilla]
+💼 LinkedIn: https://linkedin.com/in/carlvilla
 
 📧 Email: kanceberus@gmail.com
